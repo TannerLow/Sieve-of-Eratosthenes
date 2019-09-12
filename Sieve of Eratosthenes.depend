@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1552105411 source:c:\users\tanner\documents\c++\projects\sieve of eratosthenes\main.cpp
-	<iostream>
-	<cmath>
-	<fstream>
-
